@@ -2,6 +2,7 @@
 Myenv/
 env/
 venv/
+local/  # add local environment folder if you name it 'local'
 .env
 
 # Python Cache
